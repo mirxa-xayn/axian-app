@@ -1,0 +1,20 @@
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Models\bin\Debug\netcoreapp3.1\Axian.Models.deps.json
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Models\bin\Debug\netcoreapp3.1\Axian.Models.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Models\bin\Debug\netcoreapp3.1\Axian.Models.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.AssemblyInfoInputs.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.AssemblyInfo.cs
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.csproj.CoreCompileInputs.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.csproj.AssemblyReference.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Models\bin\Debug\netcoreapp3.1\Axian.Models.deps.json
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Models\bin\Debug\netcoreapp3.1\Axian.Models.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Models\bin\Debug\netcoreapp3.1\Axian.Models.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.csproj.AssemblyReference.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.GeneratedMSBuildEditorConfig.editorconfig
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.AssemblyInfoInputs.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.AssemblyInfo.cs
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.csproj.CoreCompileInputs.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Models\obj\Debug\netcoreapp3.1\Axian.Models.pdb

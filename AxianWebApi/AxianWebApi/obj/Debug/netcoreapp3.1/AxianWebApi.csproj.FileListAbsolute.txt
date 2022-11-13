@@ -1,0 +1,318 @@
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.exe
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.deps.json
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.runtimeconfig.json
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.runtimeconfig.dev.json
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.Views.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.Views.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Core.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Models.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Services.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Core.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Services.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Models.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.csproj.AssemblyReference.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.AssemblyInfoInputs.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.AssemblyInfo.cs
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.csproj.CoreCompileInputs.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.RazorAssemblyInfo.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.RazorAssemblyInfo.cs
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\staticwebassets\AxianWebApi.StaticWebAssets.Manifest.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\staticwebassets\AxianWebApi.StaticWebAssets.xml
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\AxianWebApi.styles.css
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.TagHelpers.input.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.TagHelpers.output.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.RazorCoreGenerate.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.RazorTargetAssemblyInfo.cs
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.Views.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.csproj.CopyComplete
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.genruntimeconfig.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.exe
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.deps.json
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.runtimeconfig.json
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.runtimeconfig.dev.json
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.Views.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\AxianWebApi.Views.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Core.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Models.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Services.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Core.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Services.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\bin\Debug\netcoreapp3.1\Axian.Models.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.csproj.AssemblyReference.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.AssemblyInfoInputs.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.AssemblyInfo.cs
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.csproj.CoreCompileInputs.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.MvcApplicationPartsAssemblyInfo.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.RazorAssemblyInfo.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.RazorAssemblyInfo.cs
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\staticwebassets\AxianWebApi.StaticWebAssets.Manifest.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\staticwebassets\AxianWebApi.StaticWebAssets.xml
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\AxianWebApi.styles.css
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.TagHelpers.input.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.TagHelpers.output.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.RazorCoreGenerate.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.RazorTargetAssemblyInfo.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.RazorTargetAssemblyInfo.cs
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.Views.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.csproj.CopyComplete
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\AxianWebApi\obj\Debug\netcoreapp3.1\AxianWebApi.genruntimeconfig.cache

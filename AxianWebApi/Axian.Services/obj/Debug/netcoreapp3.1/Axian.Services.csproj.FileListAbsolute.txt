@@ -1,0 +1,30 @@
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Services.deps.json
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Services.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Services.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Core.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Models.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Core.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Models.pdb
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.csproj.AssemblyReference.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.AssemblyInfoInputs.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.AssemblyInfo.cs
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.csproj.CoreCompileInputs.cache
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.csproj.CopyComplete
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.dll
+C:\Users\mirzaabdeen\Desktop\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Services.deps.json
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Services.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Services.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Core.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Models.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Core.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\bin\Debug\netcoreapp3.1\Axian.Models.pdb
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.csproj.AssemblyReference.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.GeneratedMSBuildEditorConfig.editorconfig
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.AssemblyInfoInputs.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.AssemblyInfo.cs
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.csproj.CoreCompileInputs.cache
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.csproj.CopyComplete
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.dll
+I:\MxK Career From 2022\Interview Preparation\DPL Preparation\Axian App By Mirxa\AxianWebApi\Axian.Services\obj\Debug\netcoreapp3.1\Axian.Services.pdb
