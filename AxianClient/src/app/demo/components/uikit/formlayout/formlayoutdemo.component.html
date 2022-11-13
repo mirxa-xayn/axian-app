@@ -1,0 +1,67 @@
+<p-toast></p-toast>
+
+<div class="grid">
+    <div class="col-12">
+        <div class="card">
+            <h5>Employee Detail</h5>
+            <div class="p-fluid p-formgrid grid">
+                <div class="field col-12 md:col-6">
+                    <label htmlFor="name">Name</label>
+                    <input
+                        pInputText
+                        id="name"
+                        type="text"
+                        [(ngModel)]="obj.Name"
+                    />
+                </div>
+                <div class="field col-12 md:col-6">
+                    <label htmlFor="age">Age</label>
+                    <p-inputNumber
+                        inputId="inputnumber"
+                        id="age"
+                        [(ngModel)]="obj.Age"
+                    ></p-inputNumber>
+                </div>
+                <div class="field col-12">
+                    <label htmlFor="dob">DOB</label>
+                    <p-calendar
+                        id="dob"
+                        [showIcon]="true"
+                        inputId="icon"
+                        [(ngModel)]="obj.DOB"
+                    ></p-calendar>
+                </div>
+                <div class="field col-12 md:col-6">
+                    <label htmlFor="address">Address</label>
+                    <input
+                        pInputText
+                        id="address"
+                        type="text"
+                        [(ngModel)]="obj.Address"
+                    />
+                </div>
+
+                <div class="field col-12 md:col-12">
+                    <button
+                        pButton
+                        pRipple
+                        type="button"
+                        label="Add"
+                        (click)="addNewEmployee()"
+                    ></button>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid flex flex-column align-items-center">
+            <button
+                pButton
+                pRipple
+                icon="pi pi-arrow-left"
+                label="Go to Employee List"
+                class="p-button-text"
+                [routerLink]="['/main/emp']"
+            ></button>
+        </div>
+    </div>
+</div>
